@@ -1,0 +1,21 @@
+## Practice Questions
+1. How do you assess the statistical significance of an insight?
+Ans : Statistical significance is the likelihood that a result or relationship is caused by something other than mere random chance.If the 'p-value' falls below the significance level,then the result is statistically significant.
+
+2. What is the Central Limit Theorem? Explain it. Why is it important?
+Ans : If sampling randomly and independently, the sample means distribute normally as the sample size increases, regardless of how the underlying population is distributed. Central Limit theorm helps us to make inferences about the sample and population parameters.
+
+3. What is the statistical power?
+Ans : The probability of rejecting the null hypothesis, given that the null hypothesis is false, is known as power.
+
+4. How do you control for biases?
+Ans : Some of the methods to control biases are by using random samples,correctly identify the goals and so on.
+
+5. What are confounding variables?
+Ans : A confounding variable is related to both the explanatory variable and the response variable. 
+
+6. What is A/B testing?
+Ans : In modern data analytics, deciding whether two numerical samples come from the same underlying distribution is called A/B testing. The name refers to the labels of the two samples, A and B.
+
+7. What are confidence intervals?
+Ans : A range computed using sample statistics to estimate an unknown population parameter with a stated level of confidence.
